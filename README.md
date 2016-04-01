@@ -8,3 +8,8 @@ Project names after the Album [Ayres](https://open.spotify.com/album/65Xygvtsffo
 - Java 8
 - Maven
 
+##How to run
+
+1. Clone the repository and go to the root directory.
+2. Execute `mvn compile exec:java -Dexec.args="-y our -a -rgshere"`
+
